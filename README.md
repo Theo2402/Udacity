@@ -1,4 +1,4 @@
 # Udacity
 
 
-<img  src=“https:\\raw.githubusercontent.com\Theo2402\Udacity\master\Screen%20Shot%202020-08-27%20at%2012.44.21%20PM%202.png" >
+<img width="553" alt="Screen Shot 2020-08-27 at 12 44 21 PM 2" src="https://user-images.githubusercontent.com/63469819/91434814-a8d39180-e865-11ea-99f8-88edbbae2b34.png">
